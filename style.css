@@ -358,6 +358,8 @@ box-shadow: 0 0 16px rgba(0, 0, 0, 0.233);
 }
 
 
+
+
 @media (max-width:991px) {
 
   #logo {
@@ -402,7 +404,6 @@ box-shadow: 0 0 16px rgba(0, 0, 0, 0.233);
   flex-direction: column;
 }
 
-
 .bedroom-result {
   background-color: transparent;
 }
@@ -414,6 +415,14 @@ box-shadow: 0 0 16px rgba(0, 0, 0, 0.233);
 .article-popular-container{
   flex-direction: row;
 }
+
+.body {
+  padding: 0;
+}
+.padding-responsive {
+  padding: 0 1rem;
+}
+
 }
 
 
