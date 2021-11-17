@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,900&display=swap');
 
 
@@ -383,8 +384,8 @@ box-shadow: 0 0 16px rgba(0, 0, 0, 0.233);
 
 
 .article-activities-container img {
-object-fit: cover;
-
+  object-fit: cover;
+  object-position: 50% 50%;
 }
 
 .vieux-port img {
@@ -532,7 +533,7 @@ object-fit: cover;
   padding: 0;
 }
 
-.padding-responsive {
+.search-container, .filter {
   padding: 0 1rem;
 }
 
