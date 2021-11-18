@@ -390,6 +390,7 @@ box-shadow: 0 0 16px rgba(0, 0, 0, 0.233);
 
 .vieux-port img {
   height: 30rem;
+  width: 100%;
 }
 
 
@@ -405,6 +406,7 @@ box-shadow: 0 0 16px rgba(0, 0, 0, 0.233);
 
 .parc-national-des-calanques img{
   height: 30rem;
+  width: 100%;
 }
 
 .parc-longchamp img {
@@ -510,7 +512,6 @@ box-shadow: 0 0 16px rgba(0, 0, 0, 0.233);
 
 .hebergement-and-popular-container {
   flex-direction: column-reverse;
-  padding: 0 -20rem;
 }
 
 .article-herbegement-contenaire {
