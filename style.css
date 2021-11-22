@@ -480,6 +480,7 @@ box-shadow: 0 0 16px rgba(0, 0, 0, 0.233);
   #logo {
     margin: auto;
     height: auto;
+    margin-top: 1.5rem;
   }
 
   .hebe-act {
@@ -563,9 +564,18 @@ grid-row: auto;
 
 @media (max-width:768px) {
 
+#logo {
+  justify-content: center;
+  height: 40px;
+}
+
 .article-popular-container {
     flex-direction: column;
   }
+
+.article-herbegement-contenaire {
+  margin-bottom: 1.5rem;
+}
 
 .article-activities-container {
   display: flex;
